@@ -29,11 +29,37 @@ approve them.
 [Latest release](https://github.com/esmworks/leafdesk/releases/latest) ·
 [Documentation](https://github.com/esmworks/leafdesk#readme)
 
+### [Codezal](https://github.com/esmworks/codezal)
+
+A local-first desktop AI coding agent. Pick a project folder and describe the task: the agent
+explores the project, edits files and runs commands, and shows every step as it goes.
+
+- Coding mode for real repositories, Assistant mode for other work and scheduled tasks
+- Bring your own model provider: an API key, or sign in with ChatGPT or Copilot
+- All work happens on your machine; API keys are kept on disk, readable only by you
+- A desktop app built on Electron, in English and Turkish
+- Apache-2.0
+
+[Website](https://codezal.com) · [Documentation](https://github.com/esmworks/codezal#readme)
+
+### [OpenAssist](https://github.com/esmworks/OpenAssist)
+
+Self-hosted personal AI agents: bots that live on your server, keep working while your computer is
+off, and use your Mac as a limb.
+
+- Every action with side effects asks you first, from a one-tap card in Telegram
+- A run waiting for approval parks and picks up where it left off, even hours later
+- Gmail and Calendar through an MCP gateway, routines on a schedule, persistent memory
+- A SwiftUI Mac app that lends its tools only while it is connected
+- Go and PostgreSQL, bring your own model, Apache-2.0
+
+[Documentation](https://github.com/esmworks/OpenAssist#readme)
+
 ## Get involved
 
-- Try Leafdesk and tell us what works and what doesn't in [issues](https://github.com/esmworks/leafdesk/issues)
-- Help translate it into your language: see [Translations](https://github.com/esmworks/leafdesk/blob/main/CONTRIBUTING.md)
-- Send a pull request: [CONTRIBUTING.md](https://github.com/esmworks/leafdesk/blob/main/CONTRIBUTING.md) explains how to set it up
+- Try our projects and tell us what works and what doesn't in their issues
+- Help translate [Leafdesk](https://github.com/esmworks/leafdesk/blob/main/CONTRIBUTING.md) into your language
+- Send a pull request: each repository's CONTRIBUTING.md explains how to set it up
 
 ## Contact
 
